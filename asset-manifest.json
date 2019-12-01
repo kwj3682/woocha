@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/woocha/static/css/main.12a45380.chunk.css",
+    "main.js": "/woocha/static/js/main.341fdb29.chunk.js",
+    "main.js.map": "/woocha/static/js/main.341fdb29.chunk.js.map",
+    "runtime-main.js": "/woocha/static/js/runtime-main.a5b71cf6.js",
+    "runtime-main.js.map": "/woocha/static/js/runtime-main.a5b71cf6.js.map",
+    "static/js/2.9e2e5cb2.chunk.js": "/woocha/static/js/2.9e2e5cb2.chunk.js",
+    "static/js/2.9e2e5cb2.chunk.js.map": "/woocha/static/js/2.9e2e5cb2.chunk.js.map",
+    "index.html": "/woocha/index.html",
+    "precache-manifest.fad5d30230b4cf4cb1e8f097c1ea92f8.js": "/woocha/precache-manifest.fad5d30230b4cf4cb1e8f097c1ea92f8.js",
+    "service-worker.js": "/woocha/service-worker.js",
+    "static/css/main.12a45380.chunk.css.map": "/woocha/static/css/main.12a45380.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b71cf6.js",
+    "static/js/2.9e2e5cb2.chunk.js",
+    "static/css/main.12a45380.chunk.css",
+    "static/js/main.341fdb29.chunk.js"
+  ]
+}
