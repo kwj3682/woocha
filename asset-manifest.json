@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/woocha/static/css/main.12a45380.chunk.css",
-    "main.js": "/woocha/static/js/main.341fdb29.chunk.js",
-    "main.js.map": "/woocha/static/js/main.341fdb29.chunk.js.map",
+    "main.css": "/woocha/static/css/main.77e74e1b.chunk.css",
+    "main.js": "/woocha/static/js/main.1f24435d.chunk.js",
+    "main.js.map": "/woocha/static/js/main.1f24435d.chunk.js.map",
     "runtime-main.js": "/woocha/static/js/runtime-main.a5b71cf6.js",
     "runtime-main.js.map": "/woocha/static/js/runtime-main.a5b71cf6.js.map",
     "static/js/2.9e2e5cb2.chunk.js": "/woocha/static/js/2.9e2e5cb2.chunk.js",
     "static/js/2.9e2e5cb2.chunk.js.map": "/woocha/static/js/2.9e2e5cb2.chunk.js.map",
     "index.html": "/woocha/index.html",
-    "precache-manifest.bf7ec482ead1a5bb35ec127f8f77a518.js": "/woocha/precache-manifest.bf7ec482ead1a5bb35ec127f8f77a518.js",
+    "precache-manifest.5b2e77493adf36d014cdfb41e85c5838.js": "/woocha/precache-manifest.5b2e77493adf36d014cdfb41e85c5838.js",
     "service-worker.js": "/woocha/service-worker.js",
-    "static/css/main.12a45380.chunk.css.map": "/woocha/static/css/main.12a45380.chunk.css.map"
+    "static/css/main.77e74e1b.chunk.css.map": "/woocha/static/css/main.77e74e1b.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a5b71cf6.js",
     "static/js/2.9e2e5cb2.chunk.js",
-    "static/css/main.12a45380.chunk.css",
-    "static/js/main.341fdb29.chunk.js"
+    "static/css/main.77e74e1b.chunk.css",
+    "static/js/main.1f24435d.chunk.js"
   ]
 }
