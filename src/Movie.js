@@ -5,12 +5,12 @@ import './Movie.css';
 
 function Movie({ year, title, summary, poster, genres }) {
 return (
-    <div className="movies">
+    <div className="movie">
         <div>
             <img  src={poster} alt={title} title={title}/>
         </div>
-        <div className="movie">
-            <h3 className="movie__title">{title}</h3>
+        <div className="movie__data">
+            <h3 className="movie__title" >{title}</h3>
             <h5 className="movie__year">{year}</h5>
             <p className="movie_summary">{summary.slice(0, 180)}...</p>
             <ul className="genres">
