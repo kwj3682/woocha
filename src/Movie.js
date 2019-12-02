@@ -2,7 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import './Movie.css';
-
+//라우터 추가 예정
+//12/4까지 Router 추가
 function Movie({ year, title, summary, poster, genres }) {
 return (
     <div className="movie">
@@ -30,4 +31,4 @@ Movie.propTypes = {
     genres : PropTypes.arrayOf(PropTypes.string).isRequired
 };
 
-export default Movie;
+export default Movie;   
